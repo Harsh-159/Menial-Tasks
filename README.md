@@ -1,16 +1,16 @@
-#Menial Tasks
+# Menial Tasks
 
 <br/>
 <br/>
 
-##Description
-####The project is a 3D first person shooter game made in Unity
+## Description
+#### The project is a 3D first person shooter game made in Unity
 
 <br/>
 <br/>
 
 **Demo** : [Click here](https://swift1989.itch.io/menial-tasks)
-##<span style="color:red">Note:</span> This project doesnt support Unity WebGL thus the <span style="color:red">above link is not a deployment link</span> rather site from which a zip file for the project can be downloaded which 
+## <span style="color:red">Note:</span> This project doesnt support Unity WebGL thus the <span style="color:red">above link is not a deployment link</span> rather site from which a zip file for the project can be downloaded which 
 contains an exe file using which we can play the game.
 
 
