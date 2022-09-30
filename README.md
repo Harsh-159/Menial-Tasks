@@ -17,11 +17,11 @@
 <!-- ABOUT THE PROJECT -->
 ## **About The Project**
 This project is a 3D FPS with featues including
-*[Movement of player]
-*[Boundry restriction]
-*[Multiple Scenes]
-*[Headshot]
-*[Health bar]
+- Movement of player
+- Boundry restriction
+- Multiple Scenes
+- Headshot
+- Health bar
 
 
 <br/>
@@ -35,10 +35,10 @@ This project is a 3D FPS with featues including
 <br/>
 
 ## **Installation**
-*[Click on the link in demo section]
-*[Click on the download button]
-*[Unzip folder]
-*[Double click "Menial Tasks.exe"]
+- Click on the link in demo section
+- Click on the download button
+- Unzip folder
+- Double click "Menial Tasks.exe"
 
 ## **Screenshots**
 <div align="center" ><br/>
