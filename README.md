@@ -9,8 +9,8 @@
 <br/>
 <br/>
 
-**Demo** : [Click here](https://swift1989.itch.io/menial-tasks)
-## Note: This project doesnt support Unity WebGL thus the above link is not a deployment link rather site from which a zip file for the project can be downloaded which contains an exe file using which we can play the game.
+**Deployment site** : [Click here](https://swift1989.itch.io/menial-tasks)
+## Note: This project doesnt support Unity WebGL thus the above link is not a link where we can play the game online rather site from which a zip file for the project can be downloaded which contains an exe file using which we can play the game.
 
 
 
