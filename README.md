@@ -43,13 +43,13 @@ This project is a 3D FPS with featues including
 ## **Screenshots**
 <div align="center" ><br/>
 Home page<br/><hr width=600/>
-  <img src="./images/register.png" width=600 ><br/><br/>
+  <img src="./images/homepage.png" width=600 ><br/><br/>
 Stage layout<br/><hr width=600/>
-  <img src="./images/login.png" width=600 ><br/><br/>
+  <img src="./images/stage.jpg" width=600 ><br/><br/>
 In game<br/><hr width=600/>
-  <img src="./images/list.png" width=600><br/>
+  <img src="./images/ingame.png" width=600><br/>
 Bullet hit particles<br/><hr width=600/>
-<img src="./images/list.png" width=600><br/>
+<img src="./images/shot.jpg" width=600><br/>
 </div>
 <br/>
 
